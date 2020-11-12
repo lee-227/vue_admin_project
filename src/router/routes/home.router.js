@@ -23,4 +23,14 @@ export default [
   //     }
   //   ]
   // }
+  // {
+  //   path: '/home/:type/:id',
+  //   name: 'Home',
+  //   component: Home,
+  //   props: (route) => ({
+  //       type: route.params.type,
+  //       id: route.params.id,
+  //       sex: route.query.sex,
+  //   })
+  // }
 ];
